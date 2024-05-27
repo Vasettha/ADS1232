@@ -19,7 +19,7 @@ SIGNAL:
 6. GAIN0 -> Tied to DVDD
 7. GAIN1 -> Tied to DVDD
 8. SPEED -> Tied to DVDD (HIGH SPEED MODE)/ Tied to GND (LOW SPEED MODE)
-9. 6. A0 -> GND for channel 1 , DVDD for channel 2
+9. A0 -> GND for channel 1 , DVDD for channel 2
 
 MISC:
 1. CLKIN/XTAL1
